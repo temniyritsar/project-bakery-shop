@@ -19,14 +19,14 @@
     width: 100px;
     height: 90px;
     right: 0;
-    background-image: url(/images/decor-bread-small-mobile.png);
+    background-image: url(../images/decor-bread-small-mobile.png);
 
     @media screen and (min-width: $bp-tablet) {
       left: 0;
       right: auto;
       width: 180px;
       height: 120px;
-      background-image: url(/images/decor-bread-small.png);
+      background-image: url(../images/decor-bread-small.png);
     }
   }
 
@@ -35,7 +35,7 @@
     height: 205px;
     top: 0;
     left: 0;
-    background-image: url(/images/decor-bread-large-mobile.png);
+    background-image: url(../images/decor-bread-large-mobile.png);
 
     @media screen and (min-width: $bp-tablet) {
       right: 0;
@@ -43,7 +43,7 @@
       left: auto;
       width: 380px;
       height: 190px;
-      background-image: url(/images/decor-bread-large.png);
+      background-image: url(../images/decor-bread-large.png);
     }
   }
 
